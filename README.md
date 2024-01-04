@@ -1,1 +1,1 @@
-Laboratory work on the CS AMI linear algebra course
+Laboratory work on the HSE CS AMI linear algebra course
